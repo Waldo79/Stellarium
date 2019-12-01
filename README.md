@@ -1,0 +1,2 @@
+# Stellarium
+Stellarium Bugs
